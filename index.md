@@ -114,7 +114,7 @@ REFERENCES:
 
 1.  David Shaywitz (18 May 2019). "Digital Medicine: Digital Health, Plus Evidence, Plus Humility". Forbes: [https://www.forbes.com/sites/davidshaywitz/2019/05/18/digital-medicine-digital-health-plus-evidence-plus-humility/?sh=3d493bfe261e](https://www.forbes.com/sites/davidshaywitz/2019/05/18/digital-medicine-digital-health-plus-evidence-plus-humility/?sh=3d493bfe261e)
 
-2.  Kriegman, Sam; Blackiston, Douglas; Levin, Michael; Bongard, Josh (13 January 2020). “A scalable pipeline for designing reconfigurable organisms”. National Center forBiotechnology Information (NCBI): [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6994979/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6994979/)  
+2.  Kriegman, Sam; Blackiston, Douglas; Levin, Michael; Bongard, Josh (13 January 2020). “A scalable pipeline for designing reconfigurable organisms”. National Center for Biotechnology Information (NCBI): [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6994979/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6994979/)  
 
 3.   Matt Simon (13 January 2020). "Meet Xenobot, an Eerie New Kind of Programmable Organism". Wired: [wired.com/story/xenobot/](wired.com/story/xenobot/)
 
@@ -125,3 +125,5 @@ REFERENCES:
 6.  Sample, Ian (13 January 2020). "Scientists use stem cells from frogs to build first living robots". The Guardian: [https://www.theguardian.com/science/2020/jan/13/scientists-use-stem-cells-from-frogs-to-build-first-living-robots](https://www.theguardian.com/science/2020/jan/13/scientists-use-stem-cells-from-frogs-to-build-first-living-robots)
 
 7.  Interview with Sam Kriegman. Time Horizons. “Sam Kriegman on evolving robot forms - Time Horizons Episode 4”. YouTube: [https://www.youtube.com/watch?v=4y\_IOVPdj94](https://www.youtube.com/watch?v=4y_IOVPdj94)
+
+8.  **Images:** All images are sourced from National Center for Biotechnology Information (NCBI) and all image courtesies are to them.
