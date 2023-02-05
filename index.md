@@ -57,18 +57,22 @@ APPLICATIONS OF XENOBOTS
 
 Xenobots are mostly employed nowadays as a research tool to comprehend how cells work together during morphogenesis to construct complex organisms. But there are a number of possible uses for future xenobots that are suggested by their behaviour and biocompatibility.
 
-1. #### CANCER AND TUMOR TREATMENTS:
+#### CANCER AND TUMOR TREATMENTS:
 Using xenobots to remove malignancies from the brain, pancreas, intestines, and other areas is one of their promising uses. Once inside the body, conventional nanorobots constructed of metal or plastic are recognized as "foreign objects" and attacked by the body’s immune system. As opposed to conventional nanorobots, xenobots have the benefit of being created from the patient's own cells. These xenobots won't be rejected by the patient's body because they are created from the patient's cells.
-2. #### REMOVAL OF ARTERIAL PLAQUES:
+
+#### REMOVAL OF ARTERIAL PLAQUES:
 This will perhaps be one of the most popular uses of xenobots in the nearest future. Arterial plaque occurs when cholesterol builds up in the inner lining of the artery. In simpler terms, plaques are lumps of fat inside the arteries. Xenobots, under specific configurations, can be programmed to attack these fat plaques by endocytosis.
 ![](https://lh3.googleusercontent.com/CZ__CsSsm-xLgBGzUT31B4AwFFACwZGg78JIyHnZdFLfeNGqMM1Gq1EQLGZLy4qdmkKA5PfR1FYsKI9RIiK460ZR-KQHRynExuW0Jh4BkFMOXOVFrN-7JU4EeGpr5hjXYg7NbPGHhmCFp3nTb3Z20YORCuQBfKfloPj_7w0HD-vkwAsmsDA7e5kCAenlDg)
 <p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/C1eg-jgLx5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-3. #### TACKLING OF PLASTIC POLLUTION IN THE OCEAN:
+
+#### TACKLING OF PLASTIC POLLUTION IN THE OCEAN:
 Xenobots are biodegradable since they are made entirely of frog cells. It has, hence, been hypothesized that future xenobots may be able to find and aggregate tiny bits of plastic in the ocean into a large ball of plastic that a conventional boat or drone can gather and bring to a recycling center. This is similar to how swarms of xenobots tend to work together to push microscopic pellets in their dish into central piles. In contrast to conventional technologies, xenobots behave utilizing energy from fat and protein naturally stored in their tissue, which lasts for approximately a week, after which they simply decompose into dead skin cells.
 ![](https://lh3.googleusercontent.com/9h3y3_iinBpjpnEA2hTMhGtB7ReWNsgSPAYpRx5NvudjfeZp8N4JVx3Sxz6CV5L8qWy8tnlDR9acHRPak9QlZrPwaUfJOv_HknJXeud85-Lp6HVc6TGegGb-cgHOuny1LfMoCApsHyzFyKdsJxONbqy3XakvSVVk80kED3xuR59K8fhjFabRknRb9oDFyg)
-4. #### CURING OF NEURODEGENERATIVE DISEASES:
+
+#### CURING OF NEURODEGENERATIVE DISEASES:
 Because of their self-repairing abilities, Xenobots can be used to treat neurodegenerative diseases like Alzheimer's and Parkinson's disease as well as neurological cancer-related problems. These abilities enable Xenobots to repair normal damaged cells, deliver drugs to their specific target, and reduce cytotoxicity in most malignancy situations. New methods will be used in the future to treat chronic diseases and the issues they cause.
-5. #### TARGETED DRUG DELIVERY: Targeted drug administration, also known as smart drug delivery, is a technique for administering medication to a patient in such a way that the medication is more concentrated in some areas of the body than others. This method of delivery is mostly based on nanomedicine, which aims to use medication administration via nanoparticles to counter the drawbacks of traditional drug delivery. These drug-loaded nanoparticles would be directed to specific areas of the body that only contain sick tissue, avoiding contact with healthy tissue. A targeted medicine delivery system aims to extend, localize, target, and engage with the sick tissue in a safe manner. <sup>[4]</sup>
+#### TARGETED DRUG DELIVERY:
+Targeted drug administration, also known as smart drug delivery, is a technique for administering medication to a patient in such a way that the medication is more concentrated in some areas of the body than others. This method of delivery is mostly based on nanomedicine, which aims to use medication administration via nanoparticles to counter the drawbacks of traditional drug delivery. These drug-loaded nanoparticles would be directed to specific areas of the body that only contain sick tissue, avoiding contact with healthy tissue. A targeted medicine delivery system aims to extend, localize, target, and engage with the sick tissue in a safe manner. <sup>[4]</sup>
 In the future, xenobots might be created from a patient's own cells for therapeutic uses like tailored medicine administration, avoiding the immune reaction issues that other types of micro-robotic delivery systems face. With more cell types and bioengineering, these xenobots may be utilized to scrape plaque from arteries and find and cure disease.
 
 ETHICAL CONCERNS ABOUT THE USE OF XENOBOTS IN MEDICINE AND HEALTHCARE DELIVERY
