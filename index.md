@@ -46,13 +46,9 @@ Some of the configurations AI algorithms used to "train" xenobots to move in a p
 
 ![](https://lh4.googleusercontent.com/ScVvdDKZujQspBpQ9yHA3rLYCXOaLV_f_Z1e0sV1lZaUZ6lFMIEI87ejSxkRCmaYf0E-_93gD4fPm2YThy5hlziFC8W0Zpf_FLJ9dadP51hB8_RsFPnQV5xBrKw_uX-Q-ALssjsUI7gH4lhA9_OelYupYK1K_pIAtEeqn27cBTpAuaoj3l7tckkSZxKLHQ)
 
-Levin and his colleagues attempted to construct some of these concepts while discarding others. The computer scientists got the ones that function and modified their simulator in response to what the lab workers discovered. According to Levin, it is this type of back and forth cycle between the design and biology that aids in understanding the principles governing what biology does. This is, in fact, what is called in Biology “an evolutionary algorithm”. 
-
 ![](https://lh4.googleusercontent.com/Ifp83bNqaXBZsMGKP0QTaEJYjkIyR9W-GHqs6Kn3WxQk3601XBhKkDXc65MKu8A11r4-SQCRVD6sEizucgecdUXIcCRbD8IFUpxtVST5uXF1zbBm_Y8PigVpIa_GK-wRZY_aofWdN2ls8W7GqkgQWWXbOuHqUEuhphC9WCou7bq6jLBHU8UpuBxkbN7sIQ)
 
 _Fig: One hundred computer-designed blueprints for a walking organism composed of passive (cyan) and contractile voxels (red)._
-
-In order to collect the detritus strewn across the surface of their dish into orderly heaps, xenobots have been engineered to walk, swim, push pellets, carry payloads, and cooperate in swarms. Xenobots have been built using various motors and sensors. Xenobots have the ability to produce patches of cilia that they may employ as miniature swimming oars in place of heart muscle. While now more controlled than cardiac-driven xenobot movement, cilia-driven xenobot locomotion is currently less so. The addition of an RNA molecule can also provide xenobots with molecular memory, causing them to glow a certain colour under a fluorescence microscope when exposed to a particular type of light during behaviour.
 
   
 
@@ -81,29 +77,12 @@ Because of their self-repairing abilities, Xenobots can be used to treat neurode
 Targeted drug administration, also known as smart drug delivery, is a technique for administering medication to a patient in such a way that the medication is more concentrated in some areas of the body than others. This method of delivery is mostly based on nanomedicine, which aims to use medication administration via nanoparticles to counter the drawbacks of traditional drug delivery. These drug-loaded nanoparticles would be directed to specific areas of the body that only contain sick tissue, avoiding contact with healthy tissue. A targeted medicine delivery system aims to extend, localize, target, and engage with the sick tissue in a safe manner. <sup>[4]</sup>
 In the future, xenobots might be created from a patient's own cells for therapeutic uses like tailored medicine administration, avoiding the immune reaction issues that other types of micro-robotic delivery systems face. With more cell types and bioengineering, these xenobots may be utilized to scrape plaque from arteries and find and cure disease.
 
-ETHICAL CONCERNS ABOUT THE USE OF XENOBOTS IN MEDICINE AND HEALTHCARE DELIVERY
-================
-
-The use of xenobots in healthcare and medicine raises a number of ethical concerns, including:
-
-* **Safety:** Xenobots are novel, untested technology and their use in human medicine raises questions about their potential side effects and long-term consequences.
-
-* **Responsibility:** There is a lack of clear regulations and guidelines for the use of xenobots, which raises concerns about who is responsible in case of adverse effects.
-
-* **Animal welfare:** Xenobots are created from frog cells, which raises ethical questions about the use of animals in scientific research.
-
-* **Autonomy:** Some argue that the use of xenobots in medicine could be seen as a form of exploitation, since they lack the capacity for self-determination or agency.
-
-* **Efficacy:** There is a lack of evidence to support the use of xenobots in healthcare and medicine, which raises questions about their efficacy and clinical utility.
-
-It is important to consider these and other ethical concerns as we explore the use of xenobots in healthcare and medicine and to ensure that their use is guided by a robust ethical framework.
-
   
 
 CONCLUSION:
 ===========
 
-This will definitely be a long topic of debate. An even greater and more interesting concern will be the impact of this, not just on Medicine and Digital Health, but on Politics.
+The ethical concerns of the use of Xenobots in Medicine and Healthcare Delivery will definitely be a long topic of debate, but an even greater and more interesting concern will be its impact on Politics.
 
 **Whatever it will be, we are only a few steps away from finding out!**
 
