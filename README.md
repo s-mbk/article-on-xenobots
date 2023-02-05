@@ -1,4 +1,4 @@
-# Xenobots: Potential Applications of Programmable Life
+# Xenobots - Potential Applications of Programmable Life
 
 GitHub Repo for a personal blog post, inspired by Dominik's class project for General Business Administration and Accounting, 22W Group
 
