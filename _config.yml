@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+lang: en-US
+title: Digital Innovation in Physiotherapy
+email: somtochukwumbuko@gmail.com
+github_username: s-mbk
