@@ -48,7 +48,7 @@ _Fig: One hundred computer-designed blueprints for a walking organism composed o
 APPLICATIONS OF XENOBOTS
 ========================
 
-Xenobots are mostly employed nowadays as a research tool to comprehend how cells work together during morphogenesis to construct complex organisms. But there are a number of possible uses for future xenobots that are suggested by their behaviour and biocompatibility.
+There are a number of possible uses for future xenobots that are suggested by their behaviour and biocompatibility.
 
 #### 1. CANCER AND TUMOR TREATMENTS:
 Using xenobots to remove malignancies from the brain, pancreas, intestines, and other areas is one of their promising uses. Once inside the body, conventional nanorobots constructed of metal or plastic are recognized as "foreign objects" and attacked by the body’s immune system. As opposed to conventional nanorobots, xenobots have the benefit of being created from the patient's own cells. These xenobots won't be rejected by the patient's body because they are created from the patient's cells.
