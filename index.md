@@ -121,7 +121,8 @@ This will definitely be a long topic of debate. An even greater and more interes
 REFERENCES:
 ===========
 
-1.  Kriegman, Sam; Blackiston, Douglas; Levin, Michael; Bongard, Josh (13 January 2020). “A scalable pipeline for designing reconfigurable organisms”.
+1.  David Shaywitz (18 May 2019). "Digital Medicine: Digital Health, Plus Evidence, Plus Humility". Forbes: [https://www.forbes.com/sites/davidshaywitz/2019/05/18/digital-medicine-digital-health-plus-evidence-plus-humility/?sh=3d493bfe261e]
+2.  Kriegman, Sam; Blackiston, Douglas; Levin, Michael; Bongard, Josh (13 January 2020). “A scalable pipeline for designing reconfigurable organisms”.
     
 
 2.   "Meet Xenobot, an Eerie New Kind of Programmable Organism". Wired.
