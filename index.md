@@ -10,7 +10,7 @@ When we think about Digital Medicine, we often think about the possibility of re
 WHAT ARE XENOBOTS?
 ==================
 
-According to Sam Kriegman and Douglas Blackiston, the recognized inventors of xenobots in their article "A scalable pipeline for designing reconfigurable organisms", Xenobots are synthetic lifeforms that are designed by computers to perform some desired function and built by combining together different biological tissues. They are named after the African clawed frog (Xenopus laevis), a species of African aquatic frog with a powerful combination of experimental tractability and close evolutionary relationship with humans.
+According to Sam Kriegman and Douglas Blackiston, the recognized inventors of xenobots in their article "A scalable pipeline for designing reconfigurable organisms" <sup>[2][3]</sup>, Xenobots are synthetic lifeforms that are designed by computers to perform some desired function and built by combining together different biological tissues. They are named after the African clawed frog (Xenopus laevis), a species of African aquatic frog with a powerful combination of experimental tractability and close evolutionary relationship with humans.
 
 ![](https://lh6.googleusercontent.com/Nzp2oZkOZwbxhgTJurObgIXbHTIFaxoBUXFd91lVe9bF7YdD5nMMdj268hTQqj29o3NSm77v-rOpRmF0xc0_4iQH5QMD2an5w376ujQ6HaXH7ITQurWay-iaZ-JE2i9n-uQOpeorM8UAwDP2kFduWJyLYStQz97COc_YVT-HcgyuF7YE2vfKScus9gkDuQ)
 
@@ -84,7 +84,7 @@ Xenobots are mostly employed nowadays as a research tool to comprehend how cells
 
 5.  #### TARGETED DRUG DELIVERY:
     
-     Targeted drug administration, also known as smart drug delivery, is a technique for administering medication to a patient in such a way that the medication is more concentrated in some areas of the body than others. This method of delivery is mostly based on nanomedicine, which aims to use medication administration via nanoparticles to counter the drawbacks of traditional drug delivery. These drug-loaded nanoparticles would be directed to specific areas of the body that only contain sick tissue, avoiding contact with healthy tissue. A targeted medicine delivery system aims to extend, localize, target, and engage with the sick tissue in a safe manner.  
+     Targeted drug administration, also known as smart drug delivery, is a technique for administering medication to a patient in such a way that the medication is more concentrated in some areas of the body than others. This method of delivery is mostly based on nanomedicine, which aims to use medication administration via nanoparticles to counter the drawbacks of traditional drug delivery. These drug-loaded nanoparticles would be directed to specific areas of the body that only contain sick tissue, avoiding contact with healthy tissue. A targeted medicine delivery system aims to extend, localize, target, and engage with the sick tissue in a safe manner. <sup>[4]</sup>
     In the future, xenobots might be created from a patient's own cells for therapeutic uses like tailored medicine administration, avoiding the immune reaction issues that other types of micro-robotic delivery systems face. With more cell types and bioengineering, these xenobots may be utilized to scrape plaque from arteries and find and cure disease.
     
 
@@ -121,17 +121,16 @@ This will definitely be a long topic of debate. An even greater and more interes
 REFERENCES:
 ===========
 
-1.  David Shaywitz (18 May 2019). "Digital Medicine: Digital Health, Plus Evidence, Plus Humility". Forbes: [https://www.forbes.com/sites/davidshaywitz/2019/05/18/digital-medicine-digital-health-plus-evidence-plus-humility/?sh=3d493bfe261e]
-2.  Kriegman, Sam; Blackiston, Douglas; Levin, Michael; Bongard, Josh (13 January 2020). “A scalable pipeline for designing reconfigurable organisms”.
-    
+1.  David Shaywitz (18 May 2019). "Digital Medicine: Digital Health, Plus Evidence, Plus Humility". Forbes: [https://www.forbes.com/sites/davidshaywitz/2019/05/18/digital-medicine-digital-health-plus-evidence-plus-humility/?sh=3d493bfe261e](https://www.forbes.com/sites/davidshaywitz/2019/05/18/digital-medicine-digital-health-plus-evidence-plus-humility/?sh=3d493bfe261e)
 
-2.   "Meet Xenobot, an Eerie New Kind of Programmable Organism". Wired.
-    
+2.  Kriegman, Sam; Blackiston, Douglas; Levin, Michael; Bongard, Josh (13 January 2020). “A scalable pipeline for designing reconfigurable organisms”. National Center forBiotechnology Information (NCBI): [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6994979/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6994979/)  
 
-3.  Nilay Solanki, Sagar Mahant, Swayamprakash Patel, Mehul Patel, Umang Shah, Alkesh Patel, Hardik Koria, Ashish Patel (2022). “Xenobots: Applications in Drug Discovery”.
-    
+3.   Matt Simon (13 January 2020). "Meet Xenobot, an Eerie New Kind of Programmable Organism". Wired: [wired.com/story/xenobot/](wired.com/story/xenobot/)
 
-4.  Sample, Ian (2020-01-13). "Scientists use stem cells from frogs to build first living robots". The Guardian.
-    
+4.  Toaa Daniel S Kohane (31 October 2022). "Traditional Drug Delivery at Specific Areas in the Body". Research & Reviews - International Journals: [https://www.rroij.com/open-access/traditional-drug-delivery-at-specific-areas-in-the-body.php?aid=92096](https://www.rroij.com/open-access/traditional-drug-delivery-at-specific-areas-in-the-body.php?aid=92096)
 
-5.  Interview with Sam Kriegman. Time Horizons. “Sam Kriegman on evolving robot forms | Time Horizons Episode 4” [https://www.youtube.com/watch?v=4y\_IOVPdj94](https://www.youtube.com/watch?v=4y_IOVPdj94)
+4.  Nilay Solanki, Sagar Mahant, Swayamprakash Patel, Mehul Patel, Umang Shah, Alkesh Patel, Hardik Koria, Ashish Patel (2022). “Xenobots: Applications in Drug Discovery”.   
+
+5.  Sample, Ian (13 January 2020). "Scientists use stem cells from frogs to build first living robots". The Guardian: [https://www.theguardian.com/science/2020/jan/13/scientists-use-stem-cells-from-frogs-to-build-first-living-robots](https://www.theguardian.com/science/2020/jan/13/scientists-use-stem-cells-from-frogs-to-build-first-living-robots)
+
+6.  Interview with Sam Kriegman. Time Horizons. “Sam Kriegman on evolving robot forms | Time Horizons Episode 4” [https://www.youtube.com/watch?v=4y\_IOVPdj94](https://www.youtube.com/watch?v=4y_IOVPdj94)
