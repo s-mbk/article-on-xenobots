@@ -5,14 +5,7 @@ title: Article On Xenobots
 ABSTRACT:
 =========
 
-Biology has been referred to as the study of life and living things ever since the Neolithic Revolution around 12,000 years ago, when people tamed plants for farming and livestock animals. But how complete does this definition remain in the 21st century, when new technology integrates biology and raises new issues regarding how we define life while presenting opportunities to solve significant issues?
-
 When we think about Digital Medicine, we often think about the possibility of rendering medical and healthcare services with higher efficiency, faster and perhaps remotely. By definition, Digital Medicine describes a field concerned with the use of technologies as tools for measurement, and intervention in the service of human health. And one of the greatest technologies of all time that can entirely change the trajectory of Digital Health and Medicine as we know it is the discovery of the possibility of merging life and machines into one. That is the invention of stem-cells-programmable nanorobots called Xenobots. This spans across the field of Medicine, Digital Health, Molecular Biology, Molecular Physics and Nanotechnology. <sup>[1]</sup>
-
-  
-
-WHAT ARE XENOBOTS?
-==================
 
 According to Sam Kriegman and Douglas Blackiston, the recognized inventors of xenobots in their article "A scalable pipeline for designing reconfigurable organisms" <sup>[2][3]</sup>, Xenobots are synthetic lifeforms that are designed by computers to perform some desired function and built by combining together different biological tissues. They are named after the African clawed frog (Xenopus laevis), a species of African aquatic frog with a powerful combination of experimental tractability and close evolutionary relationship with humans.
 
@@ -91,18 +84,18 @@ The ethical concerns of the use of Xenobots in Medicine and Healthcare Delivery 
 REFERENCES:
 ===========
 
-1.  David Shaywitz (18 May 2019). "Digital Medicine: Digital Health, Plus Evidence, Plus Humility". Forbes: [https://www.forbes.com/sites/davidshaywitz/2019/05/18/digital-medicine-digital-health-plus-evidence-plus-humility/?sh=3d493bfe261e](https://www.forbes.com/sites/davidshaywitz/2019/05/18/digital-medicine-digital-health-plus-evidence-plus-humility/?sh=3d493bfe261e)
+1.  [https://www.forbes.com/sites/davidshaywitz/2019/05/18/digital-medicine-digital-health-plus-evidence-plus-humility/?sh=3d493bfe261e](https://www.forbes.com/sites/davidshaywitz/2019/05/18/digital-medicine-digital-health-plus-evidence-plus-humility/?sh=3d493bfe261e)
 
-2.  Kriegman, Sam; Blackiston, Douglas; Levin, Michael; Bongard, Josh (13 January 2020). “A scalable pipeline for designing reconfigurable organisms”. National Center for Biotechnology Information (NCBI): [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6994979/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6994979/)  
+2.  [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6994979/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6994979/)  
 
-3.   Matt Simon (13 January 2020). "Meet Xenobot, an Eerie New Kind of Programmable Organism". Wired: [wired.com/story/xenobot/](wired.com/story/xenobot/)
+3.  [wired.com/story/xenobot/](wired.com/story/xenobot/)
 
-4.  Toaa Daniel S Kohane (31 October 2022). "Traditional Drug Delivery at Specific Areas in the Body". Research & Reviews - International Journals: [https://www.rroij.com/open-access/traditional-drug-delivery-at-specific-areas-in-the-body.php?aid=92096](https://www.rroij.com/open-access/traditional-drug-delivery-at-specific-areas-in-the-body.php?aid=92096)
+4.  [https://www.rroij.com/open-access/traditional-drug-delivery-at-specific-areas-in-the-body.php?aid=92096](https://www.rroij.com/open-access/traditional-drug-delivery-at-specific-areas-in-the-body.php?aid=92096)
 
-5.  Nilay Solanki, Sagar Mahant, Swayamprakash Patel, Mehul Patel, Umang Shah, Alkesh Patel, Hardik Koria, Ashish Patel (2022). “Xenobots: Applications in Drug Discovery”. PubMed: [https://pubmed.ncbi.nlm.nih.gov/35507802/](https://pubmed.ncbi.nlm.nih.gov/35507802/)
+5.  [https://pubmed.ncbi.nlm.nih.gov/35507802/](https://pubmed.ncbi.nlm.nih.gov/35507802/)
 
-6.  Sample, Ian (13 January 2020). "Scientists use stem cells from frogs to build first living robots". The Guardian: [https://www.theguardian.com/science/2020/jan/13/scientists-use-stem-cells-from-frogs-to-build-first-living-robots](https://www.theguardian.com/science/2020/jan/13/scientists-use-stem-cells-from-frogs-to-build-first-living-robots)
+6.  [https://www.theguardian.com/science/2020/jan/13/scientists-use-stem-cells-from-frogs-to-build-first-living-robots](https://www.theguardian.com/science/2020/jan/13/scientists-use-stem-cells-from-frogs-to-build-first-living-robots)
 
-7.  Interview with Sam Kriegman. Time Horizons. “Sam Kriegman on evolving robot forms - Time Horizons Episode 4”. YouTube: [https://www.youtube.com/watch?v=4y\_IOVPdj94](https://www.youtube.com/watch?v=4y_IOVPdj94)
+7.  [https://www.youtube.com/watch?v=4y\_IOVPdj94](https://www.youtube.com/watch?v=4y_IOVPdj94)
 
 8.  **Images:** All images are sourced from National Center for Biotechnology Information (NCBI) and all image courtesies are to them.
