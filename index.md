@@ -22,7 +22,7 @@ The first xenobots were built by Douglas Blackiston according to blueprints gene
 
   
 
-HOW DID SAM KRIEGMAN “PROGRAM” LIFE?
+“PROGRAMMABLE” LIFE?
 ====================================
 
 Artificial intelligence and frog cells are xenbots' two secret components. Frog skin cells and frog heart cells are the two distinct types of frog cells used to create the xenobot.
