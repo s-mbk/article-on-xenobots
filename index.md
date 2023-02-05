@@ -86,15 +86,15 @@ ETHICAL CONCERNS ABOUT THE USE OF XENOBOTS IN MEDICINE AND HEALTHCARE DELIVERY
 
 The use of xenobots in healthcare and medicine raises a number of ethical concerns, including:
 
-* Safety: Xenobots are novel, untested technology and their use in human medicine raises questions about their potential side effects and long-term consequences.
+* **Safety:** Xenobots are novel, untested technology and their use in human medicine raises questions about their potential side effects and long-term consequences.
 
-* Responsibility: There is a lack of clear regulations and guidelines for the use of xenobots, which raises concerns about who is responsible in case of adverse effects.
+* **Responsibility:** There is a lack of clear regulations and guidelines for the use of xenobots, which raises concerns about who is responsible in case of adverse effects.
 
-* Animal welfare: Xenobots are created from frog cells, which raises ethical questions about the use of animals in scientific research.
+* **Animal welfare:** Xenobots are created from frog cells, which raises ethical questions about the use of animals in scientific research.
 
-* Autonomy: Some argue that the use of xenobots in medicine could be seen as a form of exploitation, since they lack the capacity for self-determination or agency.
+* **Autonomy:** Some argue that the use of xenobots in medicine could be seen as a form of exploitation, since they lack the capacity for self-determination or agency.
 
-* Efficacy: There is a lack of evidence to support the use of xenobots in healthcare and medicine, which raises questions about their efficacy and clinical utility.
+* **Efficacy:** There is a lack of evidence to support the use of xenobots in healthcare and medicine, which raises questions about their efficacy and clinical utility.
 
 It is important to consider these and other ethical concerns as we explore the use of xenobots in healthcare and medicine and to ensure that their use is guided by a robust ethical framework.
 
