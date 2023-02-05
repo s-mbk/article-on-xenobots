@@ -1,11 +1,9 @@
-\--- layout: default ---
-
 ABSTRACT:
 =========
 
 Biology has been referred to as the study of life and living things ever since the Neolithic Revolution around 12,000 years ago, when people tamed plants for farming and livestock animals. But how complete does this definition remain in the 21st century, when new technology integrates biology and raises new issues regarding how we define life while presenting opportunities to solve significant issues?
 
-When we think about Digital Medicine, we often think about the possibility of rendering medical and healthcare services with higher efficiency, faster and perhaps remotely. By definition, Digital Medicine describes a field concerned with the use of technologies as tools for measurement, and intervention in the service of human health. And one of the greatest technologies of all time that can entirely change the trajectory of Digital Health and Medicine as we know it is the discovery of the possibility of merging life and machines into one. That is the invention of stem-cells-programmable nanorobots called Xenobots. This spans across the field of Medicine, Digital Health, Molecular Biology, Molecular Physics and Nanotechnology.
+When we think about Digital Medicine, we often think about the possibility of rendering medical and healthcare services with higher efficiency, faster and perhaps remotely. By definition, Digital Medicine describes a field concerned with the use of technologies as tools for measurement, and intervention in the service of human health. And one of the greatest technologies of all time that can entirely change the trajectory of Digital Health and Medicine as we know it is the discovery of the possibility of merging life and machines into one. That is the invention of stem-cells-programmable nanorobots called Xenobots. This spans across the field of Medicine, Digital Health, Molecular Biology, Molecular Physics and Nanotechnology.[1]
 
   
 
@@ -54,21 +52,6 @@ In order to collect the detritus strewn across the surface of their dish into or
 
   
 
-NOT JUST PROGRAMMABLE, BUT ALSO IMMORTAL?
-=========================================
-
-Blackiston suggested that the initial spherical form of the xenobots is "not the ideal design" for more complex tasks. The recommended algorithm would be a C-shape instead, which some people have compared to Pac-Man or a snow plow. He claims that shape is quite effective in corralling and gathering stray stem cells, which afterwards organically assemble into huge heaps.
-
-However, the scientists saw something amazing when the xenobots gathered up free frog stem cells in the dish: the cell heaps generated duplicates of the original xenobots.
-
-Biology is of course well aware of the many sexual and asexual reproductive methods. However, according to Michael Levin, what the xenobots performed, known as kinematic self-replication, is novel in living creatures. At the molecular level, it does occur, but "we are not aware of any organism that reproduces or duplicates in this way," the author claims. 
-
-However, it is important to note that Mathematician John von Neumann initially proposed the concept of kinematic self-replication in the late 1940s, therefore it is not wholly new. Sam Kriegman explains that Sir John von Neumann imagined robots that could select among basic robot components to create duplicates of themselves. 
-
-Apparently about 80 years later, his imagination has become a reality. Under ideal circumstances, the production of a replica takes roughly five days, according to the researchers. The "offspring", however, return to the less effective, original spheroid form rather of adopting the C-shaped body type of the parent generation.
-
-  
-
 APPLICATIONS OF XENOBOTS
 ========================
 
@@ -107,36 +90,22 @@ Xenobots are mostly employed nowadays as a research tool to comprehend how cells
 
   
 
-ETHICAL CONCERNS
+ETHICAL CONCERNS ABOUT THE USE OF XENOBOTS IN MEDICINE AND HEALTHCARE DELIVERY
 ================
 
-As it has always been across history, with every new invention comes new fears and raging concerns. And that is the case with the invention of Xenobots: scientists have ethical concerns. Nita Farahany, a professor of law and philosophy at Duke University, focuses on the ethics of emerging technologies; she was not engaged in the xenobot project. She told Smithsonian Magazine, "Any time we try to harness life, \[we\] should realize its potential to go terribly horribly."
+The use of xenobots in healthcare and medicine raises a number of ethical concerns, including:
 
-The researchers do point out that a xenobot cannot duplicate itself in the absence of raw materials, much like a hypothetical von Neumann computer. There is therefore very little likelihood that they may leave the lab and start reproducing on their own. Nothing remains from which to create more xenobots once the researchers simply eliminate the stock of loose stem cells.
+* Safety: Xenobots are novel, untested technology and their use in human medicine raises questions about their potential side effects and long-term consequences.
 
-Additionally, according to Blackiston, they are unable to mutate or evolve on their own since they do not get genetic material from the parent xenobot.
+* Responsibility: There is a lack of clear regulations and guidelines for the use of xenobots, which raises concerns about who is responsible in case of adverse effects.
 
-To construct a clone, he argues, "it would be like discovering stray pieces of a human floating around and glueing them together." Since nothing is passed down from generation to generation and everyone is independent, it is difficult to see how \[evolutionary\] selection might affect that.
+* Animal welfare: Xenobots are created from frog cells, which raises ethical questions about the use of animals in scientific research.
 
-The researchers envision using these xenobots and their capacity for self-replication in the future for the benefit of humanity. And discovering a new form of self-replication, he says, shows that "maybe life is more expected than unexpected."
+* Autonomy: Some argue that the use of xenobots in medicine could be seen as a form of exploitation, since they lack the capacity for self-determination or agency.
 
-  
+* Efficacy: There is a lack of evidence to support the use of xenobots in healthcare and medicine, which raises questions about their efficacy and clinical utility.
 
-WHAT IF XENOBOTS BECOME “SELF-PROGRAMMABLE” AND INDEPENDENT?
-============================================================
-
-Researchers now have a good understanding of how individual cells function, such as how a single heart cell contracts, but when a number of cells join together, occasionally, unanticipated behavior known as "emergent behavior" occurs.
-
-Even though individual cells might not show any signs of consciousness, consciousness does develop when several cells join together. These xenobots are not flawless; throughout testing, they occasionally exhibited emergent behavior. Researchers have identified a number of emergent behaviors, including:
-
-*   Xenobots traveling in an erroneous direction.
-    
-*   After being split in two, Xenobots begin to mend themselves.
-    
-*   Xenobot traveling with another Xenobot after becoming "friends" with them.
-    
-
-But precisely what is "consciousness"? What does the term "consciousness" mean?
+It is important to consider these and other ethical concerns as we explore the use of xenobots in healthcare and medicine and to ensure that their use is guided by a robust ethical framework.
 
   
 
@@ -145,7 +114,7 @@ CONCLUSION:
 
 This will definitely be a long topic of debate. An even greater and more interesting concern will be the impact of this, not just on Medicine and Digital Health, but on Politics.
 
-**Whatever it will be, we are only a few steps away from finding it out!**
+**Whatever it will be, we are only a few steps away from finding out!**
 
   
 
